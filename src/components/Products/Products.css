@@ -1,0 +1,35 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 20px;
+    margin-left: 40px;
+}
+
+.product img{
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.product-details h2 {
+    font-weight: 500;
+    color: blue;
+    font-size: 19px;
+}
+
+.product-details {
+    margin-bottom: 5px;
+}
+
+.purchase-btn{
+    background-color: rgb(14, 150, 37);
+    border: none;
+    padding: 8px 20px;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+.star-icon {
+    color: rgb(230, 168, 14);
+}
